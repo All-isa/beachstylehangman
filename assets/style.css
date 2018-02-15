@@ -1,0 +1,22 @@
+body {
+    background-image: url("seigaiha.png");
+}
+
+.container  {
+    margin-top:40px;
+    text-align: center;
+    font-family: fantasy;
+}
+
+.beachchair {
+    align-content: center;
+}
+
+.col-sm {
+    background-color: whitesmoke;
+}
+
+.stats  {
+    font-family: fantasy;
+    color:navy;
+}
